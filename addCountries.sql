@@ -1,0 +1,16 @@
+
+/* USE THIS CODE TO ADD THE COUNTRIES TO THE DATABASE */
+
+USE chess;
+
+
+
+
+
+
+/*
+
+
+
+
+*/
